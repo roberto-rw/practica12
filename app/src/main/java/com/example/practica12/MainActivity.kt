@@ -1,20 +1,19 @@
-package mx.edu.itson.potros.practica12
+package com.example.practica12
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.ImageView
-import com.example.practica12.R
+import com.google.firebase.database.ktx.database
 import com.google.firebase.ktx.Firebase
 import com.google.firebase.storage.FirebaseStorage
 import com.google.firebase.storage.StorageReference
-import com.google.firebase.storage.ktx.storage
 import java.util.*
 
 class MainActivity : AppCompatActivity() {
     private val File = 1
-    private val database = Firebase.storage
+    private val database = Firebase.database
     val myRef = database.getReference("user")
 
     override fun onCreate(savedInstanceState: Bundle?) {

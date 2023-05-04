@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "489349895794",
-    "project_id": "imageupload-e8edb",
-    "storage_bucket": "imageupload-e8edb.appspot.com"
+    "project_number": "871092269182",
+    "project_id": "upload-47293",
+    "storage_bucket": "upload-47293.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:489349895794:android:5269a52534fef7cf3854eb",
+        "mobilesdk_app_id": "1:871092269182:android:1821af4b32f842f679a82f",
         "android_client_info": {
-          "package_name": "mx.edu.itson.potros.practica12"
+          "package_name": "com.example.practica12"
         }
       },
       "oauth_client": [
         {
-          "client_id": "489349895794-qnaek074odnksipao9ngtdldo8bbi11b.apps.googleusercontent.com",
+          "client_id": "871092269182-20r67qs0u0i9ffsmvfbgenmb2tjmteb9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC7u_A_1-hTYiKji47ViWzP88Mev5ESV8U"
+          "current_key": "AIzaSyAhLDO3W1qkiHz1UL70zSPnf9-I1l7p1xI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "489349895794-qnaek074odnksipao9ngtdldo8bbi11b.apps.googleusercontent.com",
+              "client_id": "871092269182-20r67qs0u0i9ffsmvfbgenmb2tjmteb9.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
